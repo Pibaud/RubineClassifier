@@ -1,6 +1,6 @@
 # Présentation générale
 
-Ce fichier README documente les méthodes qui étaient à implémenter dans l'énoncé du TP pour les classes `Vecteur`, `Vecteur2D` et `Matrice`. Elles reposent toutes sur l'article de Dean Rubine datant de 1991 intiutlé : "Specifying Gestures by Example 1991" et notamment les différentes features à analyser lors de la reconnaissance de tracés. Le pdf de l'article est disponible à la racine de ce projet.
+Ce fichier README documente les méthodes qui étaient à implémenter dans l'énoncé du TP pour les classes `Vecteur`, `Vecteur2D` et `Matrice`. Elles reposent toutes sur l'article de Dean Rubine datant de 1991 intitulé : "Specifying Gestures by Example 1991" et notamment les différentes features à analyser lors de la reconnaissance de tracés. Le pdf de l'article est disponible à la racine de ce projet.
 
 Toutes les méthodes suivantes peuvent être testées en lançant le fichier `Main.java`.
 
